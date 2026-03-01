@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\belal sir assignment\bg-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\menu pic bmp\Menu.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\About.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Exit.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Highscore.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Instruction.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Menu.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\New-Game.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Play.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Weapon.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\eric-_j-08213.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Level-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\Level-1edit.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Level-1edit.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\belal sir assignment\Menu pic\redbg.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\r2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\r3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\r4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\r5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\r6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="character run\s1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Untitled-1~1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\HeroRun-6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Hero-Idle-1~1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\hero-idle.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\Untitled-1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\121.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\black-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\124.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\153.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\056.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="starting page.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\Name1.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Name1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Hero-Run-1-removebg-preview.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\character run\test.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\12345.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\Sword-back-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sword.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\sssss.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\s1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\s2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\s3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\s4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\s5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\k1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\k2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\k3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\k4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\k5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hr6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\hb1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\hb2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\FFOutput\hb3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game pic initial\hbb6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

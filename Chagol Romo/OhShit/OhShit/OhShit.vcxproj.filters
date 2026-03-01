@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Buttons">
+      <UniqueIdentifier>{6e111332-763a-4b96-9b8d-914894e2af71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Background">
+      <UniqueIdentifier>{9f8137ea-7e5a-4d56-8567-af6a591d4fba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Buttons\About.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Back.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Credits.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\CutterMaruf.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Exit.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Highscore.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Instruction.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\NewGame.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Next.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\OK.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Option.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Play.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Romo.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="Buttons\Skip.bmp">
+      <Filter>Source Files\Buttons</Filter>
+    </Image>
+    <Image Include="BackGround\Highscore.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\Highscore1.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\MenuBackground.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\MenuBackground.png">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\Mystro.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\Name.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\Romo.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\str.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+    <Image Include="BackGround\Versus.bmp">
+      <Filter>Source Files\Background</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
